@@ -1,7 +1,6 @@
 <div>
 <img align="right" width="400" alt="dragon" src="images/dragon2.jpg">
   
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <h3> // About me </h3>
 <ul style="list-style-type: none; padding-left: 0;">
 <li>> Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
