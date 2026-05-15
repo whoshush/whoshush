@@ -49,10 +49,8 @@
 <br>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
-<p>
-  <a href="TU_LINK_DE_CREDLY_AQUI" target="_blank"><img src="images/CompTIA.webp" width="110" alt="CompTIA Security+"></a>
-  <a href="TU_LINK_DE_COURSERA_AQUI" target="_blank"><img src="images/google.png" width="110" alt="Google Cybersecurity"></a>
-  <a href="TU_LINK_DE_THM_AQUI" target="_blank"><img src="images/THM.png" width="110" alt="TryHackMe"></a>
+<p align="center">
+  <img src="images/hands.jpg" alt="Credentials Banner">
 </p>
 
 <br><br>
