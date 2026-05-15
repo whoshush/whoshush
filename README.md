@@ -1,5 +1,5 @@
-<div> 
-<img align="right" width="400" alt="dragon" src="images/dragon.jpg">
+<div>
+<img align="right" width="400" alt="dragon" src="images/dragon2.jpg">
 
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
