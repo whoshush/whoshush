@@ -2,7 +2,7 @@
 <div>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 
-<h3> // About me </h3>
+<kbd><h3> // About me </h3><kbd>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <ul>
 <li>👨‍💻 Currently working as a <strong>front-end developer</strong></li>
