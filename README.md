@@ -20,7 +20,6 @@
 
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <h3>  // Skills  </h3>
-<br>
 
 <h4> [ Security, Infrastructure & Networking ] </h4>
 <p>
