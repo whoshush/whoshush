@@ -50,7 +50,7 @@
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 <p align="center">
-  <img src="images/hands2.jpg" alt="Credentials Banner">
+  <img src="images/hands3.jpg" alt="Credentials Banner">
 </p>
 <br><br>
 <hr>
