@@ -7,8 +7,22 @@
 <li>👨‍💻 Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
 <li>🤓 Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong></li>
 <li>🎓 Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
-<li>📜 Certified in <strong>CompTIA Security+</strong> & Google Cybersecurity</li>
 </ul>
+
+<h3> // Certifications 🛡️ </h3>
+<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<br>
+<p>
+  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
+    <img src="images/CompTIA.webp" width="120" alt="CompTIA Security+">
+  </a>
+  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
+    <img src="images/google.png" width="120" alt="Google Cloud Cybersecurity">
+  </a>
+  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
+    <img src="images/THM.png" width="120" alt="TryHackMe">
+  </a>
+</p>
 
 <h3>  // Skills  </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
@@ -16,7 +30,6 @@
 
 <h4> 🛡️ Security, Infrastructure & Networking </h4>
 <p>
-<img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
 <img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
