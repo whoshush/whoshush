@@ -1,5 +1,7 @@
 <div>
-<img align="right" width="310" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+<div style="float: right; margin-left: 20px; aspect-ratio: 1 / 1; width: 310px; overflow: hidden; display: block;">
+  <img alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg" style="object-fit: fill; width: 100%; height: 100%; display: block;">
+</div>
 
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
