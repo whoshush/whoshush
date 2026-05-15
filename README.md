@@ -5,7 +5,7 @@
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <ul style="list-style-type: none; padding-left: 0;">
 <li>> Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
-<li>> Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong></li>
+<li>> Building and monitoring live <strong>honeypot infrastructure</strong></li>
 <li>> Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
 </ul>
 
