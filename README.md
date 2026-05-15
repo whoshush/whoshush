@@ -1,46 +1,101 @@
-# 🛡️ SYSTEM STATUS: OPERATIONAL | whoshush 🛡️
+  <p align="center"><!-- Optional banner goes here--> </p>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+<div>
 
-<div style="width: 55%;">
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 
-## // 👤 About me
-<div style="border-bottom: 1px solid #30363d; width: 50%; margin: -10px auto 15px auto;"></div>
+<h2> // About me </h2>
 
-* 👨‍💻 **Currently working on**: **HUSH** (Interactive Web Project) and maintaining **Honeypot Infrastructure** (Cowrie/Dionaea).
-* 🤓 **Seeking to become**: A **Security Analyst (SOC)** and Full-stack Developer.
-* 🎓 **Education**: Pursuing a Bachelor's degree in **Systems Engineering** (2nd Year).
-* 🌱 **Learning**: **Russian Language** and advanced network monitoring.
+<ul>
 
-<br>
+<li>👨‍💻 Currently working as a <strong>front-end developer</strong></li>
 
-## // 🛠️ Skills & Certifications
-<div style="border-bottom: 1px solid #30363d; width: 50%; margin: -10px auto 15px auto;"></div>
+<li>🤓 Seeking to become a <strong>full-stack developer</strong></li>
 
-* **Cybersecurity**:
-    * CompTIA Security+ (Certified)
-    * Google Cybersecurity Certificate
-* **Languages**:
-    * Python, Lua (Game Scripting), Bash/Shell
-* **Frameworks**:
-    * Django, Bootstrap 5
+<li>🎓 I’m also pursuing a bachelors degree in <strong>software engineering</strong></li>
 
-<br>
+</ul>
 
-## // 🔗 Contact & Badges
-<div style="border-bottom: 1px solid #30363d; width: 50%; margin: -10px auto 15px auto;"></div>
+<h2>  // Skills  </h2>
 
-<p align="left">
-  <a href="mailto:lautaronicolasalvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/whoshush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/whoshush"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+<ul>
 
-</div>
+<li>
 
-<br><br>
-<div style="width: 55%; border-bottom: 2px solid #30363d;"></div>
+<h3> programming &amp; markup languages </h3>
 
-<p align="center">
-  Last Scanned on: 15/05/2026 | System Version: 1.7.0
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
+
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="sass">
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js">
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
+
+<ul>
+
+<li>
+
+<h4> currently learning </h4>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
+
+</li>
+
+</ul>
+
+</li>
+
+<li>
+
+<h3>  frameworks &amp; libraries </h3>
+
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react">
+
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="bootstrap5">
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="tailwind">
+
+</li>
+
+<li>
+
+<h3> tools </h3>
+
+  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
+
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
+
+<img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=" alt="photoshop">
+
+<img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
+
+<ul>
+
+<li>
+
+<h4> currently learning </h4>
+
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb">
+
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+<!---
+
+
+
+--->
+
+<hr>
+
+<p><a href="https://github.com/henrymedeiros">username</a>
+
+Last Edited on: 05/05/2023 format.</p></div> 
