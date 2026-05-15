@@ -52,6 +52,5 @@
 <p align="center">
   <img src="images/hands3.jpg" alt="Credentials Banner">
 </p>
-<br><br>
 <hr>
 </div>
