@@ -14,13 +14,13 @@
 <br>
 <p>
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA_Security+-000000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
+    <img src="https://img.shields.io/badge/CompTIA_Security+-000000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ (BLACK)">
   </a>
   <a href="https://www.coursera.org/google-cybersecurity-certificate" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-2A2A2A?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity (GREY)">
   </a>
   <a href="https://www.netacad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco_Certified-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+    <img src="https://img.shields.io/badge/Cisco_Certified-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco (BLACK)">
   </a>
 </p>
 
@@ -30,26 +30,26 @@
 
 <h4> 🛡️ Security, Infrastructure & Networking </h4>
 <p>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
+<img src="https://img.shields.io/badge/Linux-2A2A2A?style=for-the-badge&logo=linux&logoColor=white" alt="Linux (GREY)">
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu (BLACK)">
+<img src="https://img.shields.io/badge/Windows-2A2A2A?style=for-the-badge&logo=windows&logoColor=white" alt="Windows (GREY)">
+<img src="https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD (BLACK)">
 </p>
 
 <h4> ⚙️ Operations, Monitoring & Tools </h4>
 <p>
-<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
-<img src="https://img.shields.io/badge/grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Prometheus-2A2A2A?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus (GREY)">
+<img src="https://img.shields.io/badge/grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana (BLACK)">
+<img src="https://img.shields.io/badge/git-2A2A2A?style=for-the-badge&logo=git&logoColor=white" alt="Git (GREY)">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub (BLACK)">
 </p>
 
 <h4> 💻 Programming & Scripting </h4>
 <p>
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+<img src="https://img.shields.io/badge/python-2A2A2A?style=for-the-badge&logo=python&logoColor=white" alt="Python (GREY)">
+<img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash (BLACK)">
+<img src="https://img.shields.io/badge/lua-2A2A2A?style=for-the-badge&logo=lua&logoColor=white" alt="Lua (GREY)">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS (BLACK)">
 </p>
 
 <br><br>
