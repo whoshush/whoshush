@@ -1,54 +1,46 @@
-<p align="center"></p>
 <div>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <ul>
-<li>👨‍💻 Currently working as a <strong>front-end developer</strong></li>
-<li>🤓 Seeking to become a <strong>full-stack developer</strong></li>
-<li>🎓 I’m also pursuing a bachelors degree in <strong>software engineering</strong></li>
+<li>👨‍💻 Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
+<li>🤓 Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong></li>
+<li>🎓 Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
+<li>📜 Certified in <strong>CompTIA Security+</strong> & Google Cybersecurity</li>
 </ul>
 
 <h3>  // Skills  </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
-<ul>
-<li>
-<h4> programming &amp; markup languages </h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="sass">
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js">
-<ul>
-<li>
-<h4> currently learning </h4>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
-</li>
-</ul>
-</li>
-<li>
-<h4>  frameworks &amp; libraries </h4>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="bootstrap5">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="tailwind">
-</li>
-<li>
-<h4> tools </h4>
-  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-<img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=" alt="photoshop">
-<img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
-<ul>
-<li>
-<h5> currently learning </h5>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb">
-</li>
-</ul>
-</li>
-</ul>
+<br>
+
+<h4> 🛡️ Security, Infrastructure & Networking </h4>
+<p>
+<img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
+<img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
+<h4> ⚙️ Operations, Monitoring & Tools </h4>
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+<h4> 💻 Programming & Scripting </h4>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</p>
 
 <br><br>
 <hr>
-<p><a href="https://github.com/henrymedeiros">username</a>
-Last Edited on: 05/05/2023 format.</p>
 </div>
