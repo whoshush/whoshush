@@ -13,14 +13,14 @@
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 <p>
-  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
-    <img src="images/CompTIA.webp" width="120" alt="CompTIA Security+">
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
   </a>
-  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
-    <img src="images/google.png" width="120" alt="Google Cloud Cybersecurity">
+  <a href="https://www.coursera.org/google-cybersecurity-certificate" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
   </a>
-  <a href="TU_LINK_PUBLICO_AQUI" target="_blank">
-    <img src="images/THM.png" width="120" alt="TryHackMe">
+  <a href="https://www.netacad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_Certified-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   </a>
 </p>
 
@@ -30,10 +30,10 @@
 
 <h4> 🛡️ Security, Infrastructure & Networking </h4>
 <p>
-<img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
 </p>
 
 <h4> ⚙️ Operations, Monitoring & Tools </h4>
@@ -50,8 +50,6 @@
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
 <br><br>
