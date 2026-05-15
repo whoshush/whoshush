@@ -1,5 +1,5 @@
 <div>
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+<img align="right" width="310" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
@@ -9,7 +9,7 @@
 > Pursuing a bachelor's degree in <strong>Systems Engineering</strong>
 </p>
 
-<h3> // Core Focus </h3>
+<h3> // Core Focus 🎯 </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 <p>
@@ -46,9 +46,8 @@
 <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
 
-<br>
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
-<br>
+<hr>
+
 <p>
   <a href="TU_LINK_DE_CREDLY_AQUI" target="_blank"><img src="images/CompTIA.webp" width="110" alt="CompTIA Security+"></a>
   <a href="TU_LINK_DE_COURSERA_AQUI" target="_blank"><img src="images/google.png" width="110" alt="Google Cybersecurity"></a>
@@ -56,5 +55,4 @@
 </p>
 
 <br><br>
-<hr>
 </div>
