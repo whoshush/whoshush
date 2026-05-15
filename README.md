@@ -26,12 +26,8 @@
 
 ## // 📈 Github Stats
 <p align="center">
-  <a href="https://github.com/whoshush">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoshush&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="whoshush's github stats"/>
-  </a>
-  <a href="https://github.com/whoshush">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshush&layout=compact&theme=tokyonight&bg_color=071A2C&text_color=FFFFFF&icon_color=4194FD&langs_count=6" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoshush&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="whoshush's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshush&layout=compact&theme=tokyonight&bg_color=071A2C&text_color=FFFFFF&icon_color=4194FD&langs_count=6" />
 </p>
 
 <br />
