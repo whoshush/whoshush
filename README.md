@@ -9,53 +9,47 @@
 <li>🎓 Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
 </ul>
 
-<h3> // Core Focus 🎯 </h3>
+<h3> // Certifications 🛡️ </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge&logo=target&logoColor=white" alt="IR">
-  <img src="https://img.shields.io/badge/Threat_Hunting-2A2A2A?style=for-the-badge&logo=search&logoColor=white" alt="Hunting">
-  <img src="https://img.shields.io/badge/Active_Defense-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Defense">
-  <img src="https://img.shields.io/badge/Threat_Intelligence-2A2A2A?style=for-the-badge&logo=analyst&logoColor=white" alt="CTI">
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CompTIA_Security+-000000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
+  </a>
+  <a href="https://www.coursera.org/google-cybersecurity-certificate" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
+  </a>
+  <a href="https://www.netacad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_Certified-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  </a>
 </p>
 
-<h3>  // Skills  </h3>
+<h3>  // Skills  </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 
 <h4> 🛡️ Security, Infrastructure & Networking </h4>
 <p>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Ubuntu-2A2A2A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/Active_Directory-2A2A2A?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
+<img src="https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
 </p>
 
 <h4> ⚙️ Operations, Monitoring & Tools </h4>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
-<img src="https://img.shields.io/badge/grafana-2A2A2A?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+<img src="https://img.shields.io/badge/grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github-2A2A2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 <h4> 💻 Programming & Scripting </h4>
 <p>
 <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/shell_script-2A2A2A?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-<img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
-</p>
-
-<br>
-
-<h3> // Verified Badges 🏆 </h3>
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
-<br>
-<p>
-  <a href="TU_LINK_DE_CREDLY_AQUI" target="_blank"><img src="images/CompTIA.webp" width="110" alt="CompTIA Security+"></a>
-  <a href="TU_LINK_DE_COURSERA_AQUI" target="_blank"><img src="images/google.png" width="110" alt="Google Cybersecurity"></a>
-  <a href="TU_LINK_DE_THM_AQUI" target="_blank"><img src="images/THM.png" width="110" alt="TryHackMe"></a>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
 </p>
 
 <br><br>
