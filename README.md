@@ -49,10 +49,12 @@
 <br>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security+-FFFFFF?style=for-the-badge&logo=comptia&logoColor=black" alt="CompTIA Security+">
   <img src="https://img.shields.io/badge/Google_Cybersecurity_Foundations-FFFFFF?style=for-the-badge&logo=google&logoColor=black" alt="Google Cybersecurity Foundations">
   <img src="https://img.shields.io/badge/THM_Cybersecurity_101-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=black" alt="THM Cybersecurity 101">
-</p>
+</div>
+<br>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+
 </div>
