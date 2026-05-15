@@ -1,4 +1,4 @@
-<div>
+<div> 
 <img align="right" width="400" alt="dragon" src="images/dragon.jpg">
 
 <h3> // About me </h3>
