@@ -1,16 +1,16 @@
 <div>
 <img align="right" width="400" alt="dragon" src="images/dragon2.jpg">
-
-<h3> // About me </h3>
+  
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<h3> // About me </h3>
 <ul style="list-style-type: none; padding-left: 0;">
 <li>> Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
 <li>> Building and monitoring live <strong>honeypot infrastructure</strong></li>
 <li>> Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
 </ul>
 
-<h3> // Core Focus </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<h3> // Core Focus </h3>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge" alt="IR">
@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Threat_Intelligence-2A2A2A?style=for-the-badge" alt="CTI">
 </p>
 
-<h3>  // Skills  </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<h3>  // Skills  </h3>
 <br>
 
 <h4> [ Security, Infrastructure & Networking ] </h4>
