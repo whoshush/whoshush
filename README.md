@@ -1,12 +1,11 @@
 <div>
 <img align="right" width="400" alt="dragon" src="images/dragon2.jpg">
 
-<div style="border-left: 2px solid #30363d; padding-left: 15px;">
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <ul style="list-style-type: none; padding-left: 0;">
 <li>> Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
-<li>> Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong></li>
+<li>> Building and monitoring live <strong>honeypot infrastructure</strong></li>
 <li>> Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
 </ul>
 
@@ -46,15 +45,14 @@
 <img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
 <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
-</div> <br>
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+
 <br>
+<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <div align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security+-FFFFFF?style=for-the-badge&logo=comptia&logoColor=black" alt="CompTIA Security+">
   <img src="https://img.shields.io/badge/Google_Cybersecurity_Foundations-FFFFFF?style=for-the-badge&logo=google&logoColor=black" alt="Google Cybersecurity Foundations">
   <img src="https://img.shields.io/badge/THM_Cybersecurity_101-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=black" alt="THM Cybersecurity 101">
 </div>
-<br>
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<span style="color: #30363d;">─────────────────────────────────────────────────────────────────────────────────────</span>
 
 </div>
