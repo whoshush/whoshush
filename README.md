@@ -53,6 +53,6 @@
   <img src="https://img.shields.io/badge/Google_Cybersecurity_Foundations-FFFFFF?style=for-the-badge&logo=google&logoColor=black" alt="Google Cybersecurity Foundations">
   <img src="https://img.shields.io/badge/THM_Cybersecurity_101-FFFFFF?style=for-the-badge&logo=tryhackme&logoColor=black" alt="THM Cybersecurity 101">
 </div>
-<span style="color: #30363d;">──────────────────────────────────────────────────────────────────────────────────────</span>
+<span style="color: #30363d;">───────────────────────────────────────────────────────────────────────────────────</span>
 
 </div>
