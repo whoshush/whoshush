@@ -16,7 +16,10 @@
 
 </ul>
 
-<h2>  // Skills  </h2>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="22">
+  <text x="0" y="16" fill="white" font-family="monospace" font-size="20">// Skills</text>
+  <line x1="0" y1="20" x2="200" y2="20" stroke="#30363d" stroke-width="2"/>
+</svg>
 
 <ul>
 
