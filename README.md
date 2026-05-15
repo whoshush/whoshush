@@ -1,15 +1,15 @@
 <div>
-<img align="right" width="310" alt="dragon" src="images/dragon.jpg">
+<img align="right" width="400" alt="dragon" src="images/dragon.png">
 
 <h3> // About me </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
-<p>
-> Specialized in <strong>Active Defense & Threat Intelligence</strong><br>
-> Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong><br>
-> Pursuing a bachelor's degree in <strong>Systems Engineering</strong>
-</p>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>> Specialized in <strong>Active Defense & Threat Intelligence</strong></li>
+<li>> Actively seeking opportunities as a <strong>SOC Analyst / Security Engineer</strong></li>
+<li>> Pursuing a bachelor's degree in <strong>Systems Engineering</strong></li>
+</ul>
 
-<h3> // Core Focus 🎯 </h3>
+<h3> // Core Focus </h3>
 <span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
 <br>
 <p>
