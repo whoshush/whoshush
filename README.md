@@ -47,16 +47,12 @@
 <img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
 </p>
 
-<br>
-
-<h3> // Verified Badges 🏆 </h3>
-<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
-<br>
 <p>
   <a href="TU_LINK_DE_CREDLY_AQUI" target="_blank"><img src="images/CompTIA.webp" width="110" alt="CompTIA Security+"></a>
   <a href="TU_LINK_DE_COURSERA_AQUI" target="_blank"><img src="images/google.png" width="110" alt="Google Cybersecurity"></a>
   <a href="TU_LINK_DE_THM_AQUI" target="_blank"><img src="images/THM.png" width="110" alt="TryHackMe"></a>
 </p>
+
 <br><br>
 <hr>
 </div>
