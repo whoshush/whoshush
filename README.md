@@ -42,11 +42,13 @@
 <h4> 💻 Programming & Scripting </h4>
 <p>
 <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/shell_script-2A2A2A?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-<img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+<img src="https://img.shields.io/badge/lua-2A2A2A?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
 </p>
 
+<br>
+<span style="color: #30363d;">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</span>
+<br>
 <p>
   <a href="TU_LINK_DE_CREDLY_AQUI" target="_blank"><img src="images/CompTIA.webp" width="110" alt="CompTIA Security+"></a>
   <a href="TU_LINK_DE_COURSERA_AQUI" target="_blank"><img src="images/google.png" width="110" alt="Google Cybersecurity"></a>
