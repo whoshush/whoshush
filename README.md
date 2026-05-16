@@ -12,7 +12,7 @@
 <h3> // Core Focus </h3>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge" alt="IR">  
+  <img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge" alt="IR">
   <img src="https://img.shields.io/badge/SOC_Operations-2A2A2A?style=for-the-badge" alt="SOC">
   <img src="https://img.shields.io/badge/Active_Defense-000000?style=for-the-badge" alt="Defense">
   <img src="https://img.shields.io/badge/Threat_Intelligence-2A2A2A?style=for-the-badge" alt="CTI">
