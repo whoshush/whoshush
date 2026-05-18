@@ -23,10 +23,10 @@
 
 <h4> [ Security, Infrastructure & Networking ] </h4>
 <p>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali">
 <img src="https://img.shields.io/badge/Cisco-2A2A2A?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 <img src="https://img.shields.io/badge/CrowdSec-000000?style=for-the-badge&logo=crowdsec&logoColor=white" alt="CrowdSec">
-<img src="https://img.shields.io/badge/Active_Dir.-2A2A2A?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
+<img src="https://img.shields.io/badge/Active_Directory-2A2A2A?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="Active Directory">
 </p>
 
 <h4> [ Operations, Monitoring & Tools ] </h4>
