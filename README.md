@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JS-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
 <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Assembly-2A2A2A?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly">
+<img src="https://img.shields.io/badge/Assembly-2A2A2A?style=for-the-badge" alt="Assembly">
 </p>
 
 <br>
