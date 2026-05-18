@@ -23,9 +23,9 @@
 
 <h4> [ Security, Infrastructure & Networking ] </h4>
 <p>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Ubuntu-2A2A2A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Cisco-2A2A2A?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+<img src="https://img.shields.io/badge/CrowdSec-000000?style=for-the-badge&logo=crowdsec&logoColor=white" alt="CrowdSec">
 <img src="https://img.shields.io/badge/Active_Dir.-2A2A2A?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD">
 </p>
 
