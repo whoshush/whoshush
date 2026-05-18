@@ -40,8 +40,9 @@
 <h4> [ Programming & Scripting ] </h4>
 <p>
 <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
-<img src="https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/JS-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Assembly-2A2A2A?style=for-the-badge&logo=nasm&logoColor=white" alt="Assembly">
 </p>
 
 <br>
